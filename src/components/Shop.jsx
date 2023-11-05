@@ -22,8 +22,6 @@ const Shop = () => {
               backgroundColor: "white",
               color: "grey",
               width: "50px",
-              padding: "0",
-              margin: "0",
               border: "none",
             }}
           >
@@ -46,8 +44,6 @@ const Shop = () => {
               backgroundColor: "white",
               color: "grey",
               width: "50px",
-              padding: "0",
-              margin: "0",
               border: "none",
             }}
           >
@@ -70,8 +66,6 @@ const Shop = () => {
               backgroundColor: "white",
               color: "grey",
               width: "50px",
-              padding: "0",
-              margin: "0",
               border: "none",
             }}
           >
