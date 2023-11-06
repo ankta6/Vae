@@ -16,17 +16,6 @@ const Shop = () => {
           <span style={{ marginLeft: "183px", color: "rgb(34, 72, 34)" }}>
             $5.99
           </span>
-          <button
-            style={{
-              borderRadius: "7px",
-              backgroundColor: "white",
-              color: "grey",
-              width: "50px",
-              border: "none",
-            }}
-          >
-            1 lb
-          </button>
         </div>
       </div>
 
@@ -35,20 +24,11 @@ const Shop = () => {
         <div className="box">
           <p>Organic Ginger</p>
           <span>$5.99/ lb</span>
+
           <span style={{ marginLeft: "196px", color: "rgb(34, 72, 34)" }}>
             $5.99
           </span>
-          <button
-            style={{
-              borderRadius: "7px",
-              backgroundColor: "white",
-              color: "grey",
-              width: "50px",
-              border: "none",
-            }}
-          >
-            0.5b
-          </button>
+          
         </div>
       </div>
 
@@ -60,17 +40,8 @@ const Shop = () => {
           <span style={{ marginLeft: "183px", color: "rgb(34, 72, 34)" }}>
             $5.99
           </span>
-          <button
-            style={{
-              borderRadius: "7px",
-              backgroundColor: "white",
-              color: "grey",
-              width: "50px",
-              border: "none",
-            }}
-          >
-            5 b 
-          </button>
+        
+         
         </div>
       </div>
       <Payments />
